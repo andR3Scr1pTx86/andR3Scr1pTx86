@@ -1,6 +1,6 @@
 # Hey, I'm André 👋
 
-I’m a Software Engineer with ~5 years of experience, and I’m a big fan of the **"learn by doing"** philosophy. 
+I’m a Software Engineer with +5 years of experience, and I’m a big fan of the **"learn by doing"** philosophy. 
 Here you’ll find all my projects, including the playgrounds I use to dive deep into a tech or concept, the libraries I’ve built, and more.
 
 ---

@@ -10,7 +10,7 @@ Here you’ll find all my projects, including the playgrounds I use to dive deep
 
 | Repository | Description | Tech |
 | :--- | :--- | :--- |
-| [node-playground](https://github.com/andR3Scr1pTx86/node-playground) | Exploring core internals, new features, and experimental APIs. | `Javascript` `Node.js`  |
+| [node-playground](https://github.com/andR3Scr1pTx86/node-playground) | Exploring books, core arquitecture, features, third-party libraries, frameworks and creating real-world backend projects. | `Javascript` `Node.js`  |
 
 ---
 

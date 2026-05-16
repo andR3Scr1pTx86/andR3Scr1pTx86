@@ -8,9 +8,9 @@ Here you’ll find all my projects, including the playgrounds I use to dive deep
 ### 🧪 Playgrounds
 *Sandbox repositories dedicated to deep technical exploration, hands-on experimentation, and mastering ecosystems.*
 
-| Repository | Description | Tech |
-| :--- | :--- | :--- |
-| [node-playground](https://github.com/andR3Scr1pTx86/node-playground) | Exploring books, core architecture, features, third-party libraries, frameworks and creating real-world backend projects. | `Javascript` `Node.js`  |
+| Repository | Description |
+| :--- | :--- |
+| [node-playground](https://github.com/andR3Scr1pTx86/node-playground) | Exploring books, core architecture, features, third-party libraries, frameworks and creating real-world backend projects. |
 
 ---
 

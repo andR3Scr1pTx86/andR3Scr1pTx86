@@ -8,11 +8,12 @@ Here you’ll find all my projects, including the playgrounds I use to dive deep
 ### 🧪 Playgrounds
 *Sandbox repositories dedicated to hands-on experimentation, deep technical exploration, and mastering concepts from books, tutorials, and diverse learning materials.*
 
-| Repository | Description | Topic / Tech |
+| Repository | Description | Topics / Techs |
 | :--- | :--- | :--- |
-| [literature-playground](https://github.com/andR3Scr1pTx86/literature-playground) | Practical code labs and exercises developed while studying technical books, articles, and research papers. | `Node.js` |
-| [courses-playground](https://github.com/andR3Scr1pTx86/courses-playground) | Structured projects, hands-on labs, and assignments from online platforms like Udemy, Coursera, and edX. | `coming soon` |
-| [tutorials-playground](https://github.com/andR3Scr1pTx86/tutorials-playground) | Codebases, follow-alongs, and quick experiments built from video guides, YouTube, and technical blogs. | `coming soon` |
+| [literature-playground](https://github.com/andR3Scr1pTx86/literature-playground) | Study of practical and theoretical content from books, articles, academic research, etc. | `Node.js` |
+| [tutorials-playground](https://github.com/andR3Scr1pTx86/tutorials-playground) | Study of practical and theoretical content from videos, playlists, guides, technical blog tutorials, etc. | `coming soon` |
+| [courses-playground](https://github.com/andR3Scr1pTx86/courses-playground) | Study of practical and theoretical content from public and private courses, etc. | `coming soon` |
+
 ---
 
 ### 📦 NPM Packages

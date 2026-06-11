@@ -11,7 +11,7 @@ Here you’ll find all my projects, including the playgrounds I use to dive deep
 | Repository | Description | Topics / Techs |
 | :--- | :--- | :--- |
 | [literature-playground](https://github.com/andR3Scr1pTx86/literature-playground) | Study of practical and theoretical content from books, articles, academic research, etc. | `Node.js` |
-| [tutorials-playground](https://github.com/andR3Scr1pTx86/tutorials-playground) | Study of practical and theoretical content from videos, playlists, guides, technical blog tutorials, etc. | `coming soon` |
+| [tutorials-playground](https://github.com/andR3Scr1pTx86/tutorials-playground) | Study of practical and theoretical content from videos, playlists, guides, technical blog tutorials, etc. | `Design System` |
 | [courses-playground](https://github.com/andR3Scr1pTx86/courses-playground) | Study of practical and theoretical content from public and private courses, etc. | `coming soon` |
 
 ---
